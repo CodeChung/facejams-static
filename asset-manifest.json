@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facejams-static/static/css/main.2cd954bd.chunk.css",
+    "main.js": "/facejams-static/static/js/main.2c0e3bb2.chunk.js",
+    "main.js.map": "/facejams-static/static/js/main.2c0e3bb2.chunk.js.map",
+    "runtime~main.js": "/facejams-static/static/js/runtime~main.795e7a19.js",
+    "runtime~main.js.map": "/facejams-static/static/js/runtime~main.795e7a19.js.map",
+    "static/css/2.f0405d8a.chunk.css": "/facejams-static/static/css/2.f0405d8a.chunk.css",
+    "static/js/2.9274b0d7.chunk.js": "/facejams-static/static/js/2.9274b0d7.chunk.js",
+    "static/js/2.9274b0d7.chunk.js.map": "/facejams-static/static/js/2.9274b0d7.chunk.js.map",
+    "index.html": "/facejams-static/index.html",
+    "precache-manifest.3d88d22d86f88c7a174a9e50b6428c18.js": "/facejams-static/precache-manifest.3d88d22d86f88c7a174a9e50b6428c18.js",
+    "service-worker.js": "/facejams-static/service-worker.js",
+    "static/css/2.f0405d8a.chunk.css.map": "/facejams-static/static/css/2.f0405d8a.chunk.css.map",
+    "static/css/main.2cd954bd.chunk.css.map": "/facejams-static/static/css/main.2cd954bd.chunk.css.map"
+  }
+}
