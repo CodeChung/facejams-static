@@ -1,0 +1,19 @@
+.entry {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.entry img {
+    width: 40%;
+}
+
+.entry .donut {
+    width: 40%;
+}
+
+.donut iframe {
+    width: 90%;
+    height: 20%;
+    margin: 0 auto;
+}
